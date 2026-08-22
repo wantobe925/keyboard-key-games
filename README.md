@@ -7,13 +7,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![No Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)](#)
 
-### 🎮 [지금 바로 해보기](여기에_Vercel_주소를_넣으세요)
+### 🎮 [지금 바로 해보기]([https://keyboard-key-games.vercel.app/])
 
-<!-- 첫 화면 캡처를 screenshots 폴더에 넣고 아래 주석을 푸세요
-![첫 화면](./screenshots/main.png)
--->
-
----
 
 ## 왜 만들었나요
 
